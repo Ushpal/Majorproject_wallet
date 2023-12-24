@@ -1,3 +1,3 @@
 # Majorproject_wallet
 
-Video link: https://www.youtube.com/watch?v=rcXyN_cfGY8
+Wallet_version1.0
